@@ -1,11 +1,10 @@
 [
 ## Hola, soy Francisco Estrada @Festrada21👋
 
--Soy un desarrollador de software, Guatemala 🇬🇹. 
--Me apasiona crear soluciones innovadoras y 
-aprender nuevas tecnologías 💻. 
--Me gusta la música 🎵, dedicarle tiempo a
-mis seres queridos y ver peliculas.
+- Soy un desarrollador de software, Guatemala 🇬🇹.
+- Me apasiona crear soluciones innovadoras y aprender nuevas tecnologías 💻.
+- Me gustan los retos, considero que lo mas divertido es rediseñarnos a nosotros mismos.
+- Me gusta la música 🎵, dedicarle tiempo a mis seres queridos y ver peliculas.
 
 ## Mis aptitudes 🚀
 
